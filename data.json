@@ -4,5 +4,36 @@
         "address": "vishnu.chengot@gmail.com",
         "phoneNumber": "9072879546",
         "imageURL": "download (19).jpg"
+    },
+    {
+        "name": "revathi",
+        "address": "revathipgopi@gmail.com",
+        "phoneNumber": "7306148554",
+        "imageURL": "css-3.png"
+    },
+    {
+        "name": "anagha",
+        "address": "angha.chengot@gmail.com",
+        "phoneNumber": "9072879545",
+        "imageURL": "download (16).jpg"
+    },
+    {
+        "name": "reena",
+        "address": "vishnu.chengot@gmail.com",
+        "phoneNumber": "9072879546",
+        "imageURL": "download (17).jpg"
+    },
+    {
+        "name": "vishnu",
+        "address": "vishnu.chengot@gmail.com",
+        "phoneNumber": "9072879545",
+        "imageURL": "html-5.png"
+    },
+    
+    {
+        "name": "kanan",
+        "address": "kanan@gmail.com",
+        "phoneNumber": "9744456913",
+        "imageURL": "food2.jpg"
     }
 ]
